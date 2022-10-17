@@ -11,7 +11,7 @@ A continuación, se presenta el cómo se implementó a nivel de código en la so
 
 ## Ejecución
 
-Para ejecución de proyecto, se requieres restaurar la base se datos que esta en la url , después de restaurada se verifica que exista el usuario pruebas y que tenga los permisos de lectura y escritura.
+Para ejecución de proyecto, se requieres restaurar la base se datos que esta en la url https://github.com/yagoalexa/VentaCasas/blob/70e66f604412dfd811bdd11b67ba0d18b46e608b/BaseDeDatos/VentaCasas.bak, después de restaurada se verifica que exista el usuario pruebas y que tenga los permisos de lectura y escritura.
 Para finalizar, debe clonar el proyecto en la maquina que se disponga, restaurar los paquetes Nuget y verificar que el proyecto por defecto sea [VentaCasas.Api] y ejecutarlo, al final vera la funcionalidad de las APIs.
 
 ![Swagger](https://user-images.githubusercontent.com/4923760/139115435-ce0e1d68-7efb-4c54-b66c-bee4a289d765.jpg)
