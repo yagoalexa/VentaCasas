@@ -7,11 +7,11 @@ La base de datos de realizo por CodeFirst, y finalmente se realizó la migració
 
 A continuación, se presenta el cómo se implementó a nivel de código en la solución
 
-![weelo](https://user-images.githubusercontent.com/4923760/139114818-4f351d32-40de-4d01-838d-528799a056f3.png)
+![act6 clean](https://user-images.githubusercontent.com/18562142/196098832-fbfda23d-4442-46d4-871c-18f7c52be605.png)
 
 ## Ejecución
 
 Para ejecución de proyecto, se requieres restaurar la base se datos que esta en la url https://github.com/yagoalexa/VentaCasas/blob/70e66f604412dfd811bdd11b67ba0d18b46e608b/BaseDeDatos/VentaCasas.bak, después de restaurada se verifica que exista el usuario pruebas y que tenga los permisos de lectura y escritura.
 Para finalizar, debe clonar el proyecto en la maquina que se disponga, restaurar los paquetes Nuget y verificar que el proyecto por defecto sea [VentaCasas.Api] y ejecutarlo, al final vera la funcionalidad de las APIs.
 
-![Swagger](https://user-images.githubusercontent.com/4923760/139115435-ce0e1d68-7efb-4c54-b66c-bee4a289d765.jpg)
+![swagger](https://user-images.githubusercontent.com/18562142/196098899-d0b1b2b3-33d2-4c89-84c9-f3ecbbbd462e.jpeg)
